@@ -11,8 +11,7 @@ An interactive, web-based adaptation of the classic Snake game, powered by real-
 ---
 
 ## 📸 Demo & Screenshots
-*(💡 Tip: Upload a short GIF or a screenshot of the gameplay here!)*
-> `[Insert Screenshot/GIF Here]`
+
 
 ---
 
